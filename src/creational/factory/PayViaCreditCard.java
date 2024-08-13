@@ -1,4 +1,4 @@
-package factory;
+package creational.factory;
 
 public class PayViaCreditCard implements Payment{
     @Override
